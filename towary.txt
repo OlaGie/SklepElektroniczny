@@ -1,0 +1,160 @@
+1
+123456
+lenovo a820
+komputer
+1800.5
+23
+8
+
+2
+123457
+asus x54c
+komputer
+2300.5
+23
+2
+
+3
+123458
+lenovo p780
+aparat
+680.8
+12
+13
+
+4
+123123
+hp 200i
+aparat
+1300
+23
+3
+
+5
+123124
+hp200
+kamera
+2243.3
+23
+34
+
+6
+123125
+nikon 600i
+aparat
+3600.9
+23
+38
+
+7
+123126
+panasonic gx4
+kamera
+3400.23
+23
+4
+
+8
+123127
+panasonic tx34
+kamera
+1400.6
+23
+3
+
+9
+123128
+acer aspire e1-570
+komputer
+1900.5
+23
+5
+
+10
+123129
+nikon d910
+aparat
+2200.6
+22
+3
+
+11
+123133
+sony dsc200
+aparat
+540.5
+23
+10
+
+12
+232323
+lenovo 99
+komputer
+3455.7
+22
+2
+
+13
+234234
+acer superx
+komputer
+2300.6
+23
+2
+
+14
+112233
+lenovo megal
+komputer
+2344.8
+23
+2
+
+15
+432432
+samsung e349l
+kamera
+1500.7
+23
+3
+
+16
+444333
+sony vio
+komputer
+1800.8
+23
+2
+
+17
+555444
+samsung galaxys
+aparat
+1050.6
+23
+11
+
+18
+222333
+lenovo 350h
+komputer
+1000
+23
+2
+
+19
+987987
+acer 3
+komputer
+3000
+23
+2
+
+20
+3232
+telewizor
+komputer
+34.5
+23
+3
+

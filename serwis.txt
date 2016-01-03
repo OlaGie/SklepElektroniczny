@@ -1,0 +1,36 @@
+1
+Usterka Kowalski
+naprawa komputera
+12-06-2014
+250
+
+2
+Naprawa- Gdowska
+Naprawa komputera
+10-06-2014
+250
+
+3
+System- Kowalski
+Instalacja systemu
+15-05-2014
+400
+
+4
+Obiektyw- Kozdras
+Naprawa obiektywu
+13-04-2014
+600
+
+5
+Obudowa- Nowak
+Wymiana obudowy
+10-03-2014
+400
+
+6
+naprawf ff
+dsdv ff
+22-06-2014
+230
+
